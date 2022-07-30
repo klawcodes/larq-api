@@ -1,0 +1,864 @@
+[
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "BPP",
+    "namaKota": "Balikpapan",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "BNA",
+    "namaKota": "Banda Aceh",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "BDL",
+    "namaKota": "Bandar Lampung",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "BDG",
+    "namaKota": "Bandung",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "BJR",
+    "namaKota": "Banjar",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "BJB",
+    "namaKota": "Banjar Baru",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "BJM",
+    "namaKota": "Banjarmasin",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "BTM",
+    "namaKota": "Batam",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "BTU",
+    "namaKota": "Batu",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "BAU",
+    "namaKota": "Baubau",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "BKS",
+    "namaKota": "Bekasi",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "BGL",
+    "namaKota": "Bengkulu",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "BIM",
+    "namaKota": "Bima",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "BNJ",
+    "namaKota": "Binjai",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "BIT",
+    "namaKota": "Bitung",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "BLT",
+    "namaKota": "Blitar",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "BGR",
+    "namaKota": "Bogor",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "BON",
+    "namaKota": "Bontang",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "BKT",
+    "namaKota": "Bukit Tinggi",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  },
+  {
+    "idKota": "AMB",
+    "namaKota": "Ambon",
+    "kodePos": "",
+    "daftarKabupaten": {
+      "": ""
+    },
+    "landscape": ""
+  }
+]
