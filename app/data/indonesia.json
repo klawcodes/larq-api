@@ -58,7 +58,7 @@
     "idKota": "BKS",
     "namaKota": "Bekasi",
     "landscape": {
-      "summarecon": "../assets/bks/summarecon.jpg"
+      "summarecon": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/bks/summarecon.jpg"
     }
   },
   {
