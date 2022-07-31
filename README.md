@@ -10,3 +10,7 @@
 - `/api`: global summary // country list
 
 - `/api/[countryId]`: generate a data in that country
+
+<br /><br /><br />
+
+<h6>image credit to all person on the internet <3 tysm</h6>
