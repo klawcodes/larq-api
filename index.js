@@ -4,6 +4,9 @@ const cors = require('cors');
 
 const id = require('./app/data/indonesia.json');
 
+
+const api = require('./app/starter/api.json');
+
 // Models
 
 const app = express();
@@ -19,6 +22,10 @@ app.use(bodyParser.urlencoded({ extended: true }));
 // Sync database
 // simple route
 app.get('/api', (req, res) => {
+  res.header('Content-Type', 'application/json');
+  res.send(JSON.stringify(api));
+});
+app.get('/', (req, res) => {
   res.json({ message: 'Welcome to Larq.' });
 });
 app.get('/api/id', (req, res) => {
