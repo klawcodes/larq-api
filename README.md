@@ -5,7 +5,7 @@
 
 ## Routes
 
-- `/`: nothing
+- `/`: homepage
 
 - `/api`: global summary
 
