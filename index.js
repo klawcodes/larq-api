@@ -1,6 +1,7 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
+const path = require('path');
 
 const id = require('./app/data/indonesia.json');
 
@@ -26,7 +27,7 @@ app.get('/api', (req, res) => {
   res.send(JSON.stringify(api));
 });
 app.get('/', (req, res) => {
-  res.json({ message: 'Welcome to Larq.' });
+  res.sendFile(path.join(__dirname, './app/starter/index.html'));
 });
 app.get('/api/id', (req, res) => {
   res.header('Content-Type', 'application/json');
