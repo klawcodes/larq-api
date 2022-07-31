@@ -7,6 +7,6 @@
 
 - `/`: homepage
 
-- `/api`: global summary
+- `/api`: global summary // country list
 
 - `/api/[countryId]`: generate a data in that country
