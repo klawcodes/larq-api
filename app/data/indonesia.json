@@ -3,98 +3,98 @@
     "idKota": "AMB",
     "namaKota": "Ambon",
     "landscape":  {
-      "1": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/amb/1.jpg"
+      "image": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/amb/image.jpg"
     }
   },
   {
     "idKota": "BPP",
     "namaKota": "Balikpapan",
     "landscape":  {
-      "1": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bpp/1.jpg"
+      "image": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bpp/image.jpg"
     }
   },
   {
     "idKota": "BNA",
     "namaKota": "Banda Aceh",
     "landscape":  {
-      "1": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bna/1.jpg"
+      "image": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bna/image.jpg"
     }
   },
   {
     "idKota": "BDL",
     "namaKota": "Bandar Lampung",
     "landscape":  {
-      "1": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bdl/1.jpg"
+      "image": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bdl/image.jpg"
     }
   },
   {
     "idKota": "BDG",
     "namaKota": "Bandung",
     "landscape":  {
-      "1": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bdg/1.jpg"
+      "image": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bdg/image.jpg"
     }
   },
   {
     "idKota": "BJR",
     "namaKota": "Banjar",
     "landscape":  {
-      "1": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bjr/1.jpg"
+      "image": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bjr/image.jpg"
     }
   },
   {
     "idKota": "BJB",
     "namaKota": "Banjar Baru",
     "landscape":  {
-      "1": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bjb/1.jpg"
+      "image": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bjb/image.jpg"
     }
   },
   {
     "idKota": "BJM",
     "namaKota": "Banjarmasin",
     "landscape":  {
-      "1": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bjm/1.jpg"
+      "image": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bjm/image.jpg"
     }
   },
   {
     "idKota": "BTM",
     "namaKota": "Batam",
     "landscape":  {
-      "1": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/btm/1.jpg"
+      "image": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/btm/image.jpg"
     }
   },
   {
     "idKota": "BTU",
     "namaKota": "Batu",
     "landscape":  {
-      "1": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/btu/1.jpg"
+      "image": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/btu/image.jpg"
     }
   },
   {
     "idKota": "BAU",
     "namaKota": "Baubau",
     "landscape":  {
-      "1": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bau/1.jpg"
+      "image": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bau/image.jpg"
     }
   },
   {
     "idKota": "BKS",
     "namaKota": "Bekasi",
     "landscape": {
-      "1": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bks/1.jpg"
+      "image": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bks/image.jpg"
     }
   },
   {
     "idKota": "BGL",
     "namaKota": "Bengkulu",
     "landscape":  {
-      "1": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bgl/1.jpg"
+      "image": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bgl/image.jpg"
     }
   },
   {
     "idKota": "BIM",
     "namaKota": "Bima",
     "landscape":  {
-      "1": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bim/1.jpg"
+      "image": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bim/image.jpg"
     }
   },
   {
@@ -106,35 +106,35 @@
     "idKota": "BIT",
     "namaKota": "Bitung",
     "landscape":  {
-      "1": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bit/1.jpg"
+      "image": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bit/image.jpg"
     }
   },
   {
     "idKota": "BLT",
     "namaKota": "Blitar",
     "landscape":  {
-      "1": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/blt/1.jpg"
+      "image": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/blt/image.jpg"
     }
   },
   {
     "idKota": "BGR",
     "namaKota": "Bogor",
     "landscape":  {
-      "1": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bgr/1.jpg"
+      "image": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bgr/image.jpg"
     }
   },
   {
     "idKota": "BON",
     "namaKota": "Bontang",
     "landscape":  {
-      "1": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bon/1.jpg"
+      "image": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bon/image.jpg"
     }
   },
   {
     "idKota": "BKT",
     "namaKota": "Bukit Tinggi",
     "landscape":  {
-      "1": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bkt/1.jpg"
+      "image": "https://raw.githubusercontent.com/klawcodes/larq-api/main/app/assets/indonesia/bkt/image.jpg"
     }
   },
   {
