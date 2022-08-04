@@ -138,675 +138,378 @@
     }
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
+    "idKota": "CLG",
+    "namaKota": "Cilegon",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
+    "idKota": "CMH",
+    "namaKota": "Cimahi",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
+    "idKota": "CBN",
+    "namaKota": "Cirebon",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "DPR",
+    "namaKota": "Denpasar",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "DPK",
+    "namaKota": "Depok",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "DUM",
+    "namaKota": "Dumai",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "GTO",
+    "namaKota": "Gorontalo",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "GST",
+    "namaKota": "Gunungsitoli",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "JKB",
+    "namaKota": "Jakarta Barat",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "JKP",
+    "namaKota": "Jakarta Pusat",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "JKS",
+    "namaKota": "Jakarta Selatan",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "JKM",
+    "namaKota": "Jakarta Timur",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "JKU",
+    "namaKota": "Jakarta Utara",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "JMB",
+    "namaKota": "Jambi",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "JAP",
+    "namaKota": "Jayapura",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "KDR",
+    "namaKota": "Kediri",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "KTB",
+    "namaKota": "Kotamobagu",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "KPG",
+    "namaKota": "Kupang",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "LGS",
+    "namaKota": "Langsa",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "LSM",
+    "namaKota": "Lhoksemawe",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "LLG",
+    "namaKota": "Lubuklinggau",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "MAD",
+    "namaKota": "Madiun",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "MGG",
+    "namaKota": "Magelang",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "MKS",
+    "namaKota": "Makassar",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "MLG",
+    "namaKota": "Malang",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "MND",
+    "namaKota": "Manado",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "MTR",
+    "namaKota": "Mataram",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "MDN",
+    "namaKota": "Medan",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "MET",
+    "namaKota": "Metro",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "MJK",
+    "namaKota": "Mojokerto",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "PAD",
+    "namaKota": "Padang",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "PDP",
+    "namaKota": "Padang Panjang",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "PSP",
+    "namaKota": "Padang Sidempuan",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "PGA",
+    "namaKota": "Pagar Alam",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "PLK",
+    "namaKota": "Palangkaraya",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "PLG",
+    "namaKota": "Palembang",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "PLP",
+    "namaKota": "Palopo",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "PAL",
+    "namaKota": "Palu",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "PGP",
+    "namaKota": "Pangkalpinang",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "PRE",
+    "namaKota": "Parepare",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "PSN",
+    "namaKota": "Pasuruan",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "PYK",
+    "namaKota": "Payakumbuh",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "PKL",
+    "namaKota": "Pekalongan",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "PBR",
+    "namaKota": "Pekanbaru",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "PMS",
+    "namaKota": "Pematang siantar",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "PTK",
+    "namaKota": "Pontianak",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "PBM",
+    "namaKota": "Prabumulih",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "PBL",
+    "namaKota": "Probolinggo",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "SAB",
+    "namaKota": "Sabang",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "SLT",
+    "namaKota": "Salatiga",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "SMR",
+    "namaKota": "Samarinda",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "SWL",
+    "namaKota": "Sawahlunto",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "SMG",
+    "namaKota": "Semarang",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "SRG",
+    "namaKota": "Serang",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "SBG",
+    "namaKota": "Sibolga",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "SKW",
+    "namaKota": "Singkawang",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "SLK",
+    "namaKota": "Solok",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "SON",
+    "namaKota": "Sorong",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "SUS",
+    "namaKota": "Subulussalam",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "SKB",
+    "namaKota": "Sukabumi",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "SPN",
+    "namaKota": "Sungai Penuh",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "SBY",
+    "namaKota": "Surabaya",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "SKT",
+    "namaKota": "Surakarta",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "TGS",
+    "namaKota": "Tanggerang Selatan",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "TNG",
+    "namaKota": "Tanggerang",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "TJB",
+    "namaKota": "Tanjung pinang",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "TAR",
+    "namaKota": "Tarakan",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "TSM",
+    "namaKota": "Tasikmalaya",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "TBT",
+    "namaKota": "Tebing Tinggi",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "TGL",
+    "namaKota": "Tegal",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "TTE",
+    "namaKota": "Ternate",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "TDR",
+    "namaKota": "Tidore Kepulauan",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "TMH",
+    "namaKota": "Tomohon",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "TUL",
+    "namaKota": "Tual",
     "landscape": ""
   },
   {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
-    "landscape": ""
-  },
-  {
-    "idKota": "AMB",
-    "namaKota": "Ambon",
-    "kodePos": "",
-    "daftarKabupaten": {
-      "": ""
-    },
+    "idKota": "YYK",
+    "namaKota": "Yogyakarta",
     "landscape": ""
   }
 ]
