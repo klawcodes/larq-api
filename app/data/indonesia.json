@@ -464,7 +464,12 @@
   },
   {
     "idKota": "TJB",
-    "namaKota": "Tanjung pinang",
+    "namaKota": "Tanjung Balai",
+    "landscape": ""
+  },
+  {
+    "idKota": "TPG",
+    "namaKota": "Tanjung Pinang",
     "landscape": ""
   },
   {
