@@ -15,6 +15,8 @@
 
 If you are not familiar with API data retrieval, you can take a look at the [examples](https://github.com/klawcodes/larq-api/tree/main/examples) folder
 
-<br /><br /><br />
+<br />
+if you want to add high quality image for your city, send to [klawcodes@gmail.com](mailto:klawcodes@gmail.com) with subject email "LARQ - (your city name)
+<br /><br />
 
 <h6>image credit to all person on the internet <3 tysm</h6>
